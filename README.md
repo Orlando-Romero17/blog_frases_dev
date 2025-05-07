@@ -1,3 +1,5 @@
+#  Orlando gabriel romero morales
+
 # ORLANDO GABRIEL ROMERO MORALES
 # Frases célebres de programadores
 
